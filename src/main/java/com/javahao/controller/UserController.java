@@ -9,8 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 @Controller
 public class UserController {
-    @RequestMapping("/houtai")
-    public String show(){
-      return "show";
-    }
+
+
+
 }
