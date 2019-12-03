@@ -1,8 +1,6 @@
 package com.javahao.dao;
 
 import com.javahao.pojo.LunBo;
-import com.javahao.util.Tools;
-import org.apache.ibatis.annotations.InsertProvider;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
